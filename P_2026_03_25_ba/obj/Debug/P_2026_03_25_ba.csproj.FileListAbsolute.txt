@@ -1,0 +1,16 @@
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\bin\Debug\P_2026_03_25_ba.exe.config
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\bin\Debug\P_2026_03_25_ba.exe
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\bin\Debug\P_2026_03_25_ba.pdb
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.csproj.AssemblyReference.cache
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\App.g.cs
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba_MarkupCompile.cache
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba_MarkupCompile.lref
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.g.resources
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.Properties.Resources.resources
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.csproj.GenerateResource.cache
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.exe
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.pdb
+C:\Users\user\Documents\12.a\Kovács Bence\VS\P_2026_03_25_ba\P_2026_03_25_ba\obj\Debug\P_2026_03_25_ba.exe.config
